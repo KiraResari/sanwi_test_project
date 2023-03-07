@@ -1,6 +1,6 @@
 # sanwi_test_projekt
 
-A new Flutter project.
+A new Flutter project by Sanwi.
 
 ## Getting Started
 
