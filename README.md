@@ -1,2 +1,2 @@
 # sanwi_test_project
-A simple test lutter app by Sanwi
+A simple test flutter app by Sanwi
